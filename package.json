@@ -21,7 +21,7 @@
   "dependencies": {
     "@sentry/node": "^5.23.0",
     "bufferutil": "^4.0.1",
-    "discord.js": "^11.5.1",
+    "discord.js": "^12.4.1",
     "dotenv": "^8.2.0",
     "erlpack": "github:hammerandchisel/erlpack",
     "escape-string-regexp": "^2.0.0",
